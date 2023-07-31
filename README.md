@@ -4,4 +4,5 @@
 
 ### Image Recognition (이미지 인식)
 * Deep Residual Learning for Image Recognition (CVPR 2016)
-    * d
+    * [Original Paper Link](https://arxiv.org/abs/1512.03385) / [Paper Review post]() / [Summary PDF]()
+      
