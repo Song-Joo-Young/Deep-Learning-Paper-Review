@@ -6,3 +6,6 @@
 * Deep Residual Learning for Image Recognition (CVPR 2016)
     * [Original Paper Link](https://arxiv.org/abs/1512.03385) / [Paper Review post](https://songsite123.tistory.com/62) / [Summary PDF]()
       
+### Object Detection (객체 탐지)
+* You Only Look Once: Unified, Real-Time Object Detection (CVPR 2016)
+    * [Original Paper Link](https://arxiv.org/abs/1506.02640) / [Paper Review post](https://songsite123.tistory.com/64) / [Summary PDF]()
