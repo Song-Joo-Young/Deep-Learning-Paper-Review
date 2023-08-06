@@ -9,3 +9,7 @@
 ### Object Detection (객체 탐지)
 * You Only Look Once: Unified, Real-Time Object Detection (CVPR 2016)
     * [Original Paper Link](https://arxiv.org/abs/1506.02640) / [Paper Review post](https://songsite123.tistory.com/64) / [Summary PDF]()
+
+### Natural Language Processing (자연어 처리)
+* Sequence to Sequence Learning with Neural Networks (NIPS 2014)
+    * [Original Paper Link](https://arxiv.org/pdf/1409.3215.pdf) / [Paper Review post]() / [Summary PDF]()
