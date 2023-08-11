@@ -4,7 +4,7 @@
 
 ### Image Recognition (이미지 인식)
 * Deep Residual Learning for Image Recognition (CVPR 2016)
-    * [Original Paper Link](https://arxiv.org/abs/1512.03385) / [Paper Review post](https://songsite123.tistory.com/62) / [Summary PDF]() / Seminar PPT()
+    * [Original Paper Link](https://arxiv.org/abs/1512.03385) / [Paper Review post](https://songsite123.tistory.com/62) / [Summary PDF]() / PPT()
       
 ### Object Detection (객체 탐지)
 * You Only Look Once: Unified, Real-Time Object Detection (CVPR 2016)
