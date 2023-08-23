@@ -13,3 +13,8 @@
 ### Natural Language Processing (자연어 처리)
 * Sequence to Sequence Learning with Neural Networks (NIPS 2014)
     * [Original Paper Link](https://arxiv.org/pdf/1409.3215.pdf) / [Paper Review post]() / [Summary PDF](https://github.com/Song-Joo-Young/Deep-Learning-Paper-Review/blob/main/Summary%20PDF/Summary__Sequence_to_Sequence_Learning_with_Neural_Networks__2014_NIPS_.pdf)
+
+
+### Modeling & Optimization (모델링 & 최적화)
+* An Overview of Gradient DescentOptimization Algorithms (Arxiv 2016)
+    * [Original Paper Link](https://arxiv.org/pdf/1609.04747.pdf) / [Paper Review post](https://songsite123.tistory.com/73) 
