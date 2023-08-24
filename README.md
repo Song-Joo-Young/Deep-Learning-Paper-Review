@@ -16,5 +16,5 @@
 
 
 ### Modeling & Optimization (모델링 & 최적화)
-* An Overview of Gradient DescentOptimization Algorithms (Arxiv 2016)
+* An Overview of Gradient Descent Optimization Algorithms (Arxiv 2016)
     * [Original Paper Link](https://arxiv.org/pdf/1609.04747.pdf) / [Paper Review post](https://songsite123.tistory.com/73) 
