@@ -11,6 +11,8 @@
     * [Original Paper Link](https://arxiv.org/abs/1506.02640) / [Paper Review post](https://songsite123.tistory.com/64) / [Summary PDF](https://github.com/Song-Joo-Young/Deep-Learning-Paper-Review/blob/main/Summary%20PDF/Summary__You_Only_Look_Once__Unified__Real_Time_Object_Detection__CVPR_2016.pdf)
 
 ### Natural Language Processing (자연어 처리)
+* Neural Machine Translation by Jointly Learning to Align and Translate (ICLR 2015)
+    * [Original Paper Link](https://arxiv.org/pdf/1409.0473.pdf) / [Paper Review post](https://songsite123.tistory.com/75) 
 * Sequence to Sequence Learning with Neural Networks (NIPS 2014)
     * [Original Paper Link](https://arxiv.org/pdf/1409.3215.pdf) / [Paper Review post](https://songsite123.tistory.com/74) / [Summary PDF](https://github.com/Song-Joo-Young/Deep-Learning-Paper-Review/blob/main/Summary%20PDF/Summary__Sequence_to_Sequence_Learning_with_Neural_Networks__2014_NIPS_.pdf)
 
