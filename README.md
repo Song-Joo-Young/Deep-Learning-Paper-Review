@@ -21,8 +21,14 @@
     * [Original Paper Link](https://arxiv.org/pdf/1409.3215.pdf) / [Paper Review post](https://songsite123.tistory.com/74) / [Summary PDF](https://github.com/Song-Joo-Young/Deep-Learning-Paper-Review/blob/main/Summary%20PDF/Summary__Sequence_to_Sequence_Learning_with_Neural_Networks__2014_NIPS_.pdf) / [Code Practice](https://github.com/Song-Joo-Young/Deep-Learning-Paper-Review/blob/main/Code%20Practice/Sequence_to_Sequence_Learning_with_Neural_Networks.ipynb)
 
 ### Deep Learning Security ( 딥러닝 보안 )
+* Towards Deep Learning Models Resistant to Adversarial Attacks (ICLR 2018)
+   * [Original Paper Link]() / [Paper Review post](https://arxiv.org/abs/1706.06083) 
 * Explaining and Harnessing Adversarial Examples (ICLR 2015)
    * [Original Paper Link](https://arxiv.org/abs/1412.6572) / [Paper Review post](https://songsite123.tistory.com/78)
+     
 ### Modeling & Optimization (모델링 & 최적화)
 * An Overview of Gradient Descent Optimization Algorithms (Arxiv 2016)
-    * [Original Paper Link](https://arxiv.org/pdf/1609.04747.pdf) / [Paper Review post](https://songsite123.tistory.com/73) 
+    * [Original Paper Link](https://arxiv.org/pdf/1609.04747.pdf) / [Paper Review post](https://songsite123.tistory.com/73)
+ 
+### Basic Concepts
+* Information Entropy[https://songsite123.tistory.com/65]    
