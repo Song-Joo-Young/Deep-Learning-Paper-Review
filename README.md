@@ -25,6 +25,10 @@
    * [Original Paper Link](https://arxiv.org/abs/1706.06083) / [Paper Review post](https://songsite123.tistory.com/79) 
 * Explaining and Harnessing Adversarial Examples (ICLR 2015)
    * [Original Paper Link](https://arxiv.org/abs/1412.6572) / [Paper Review post](https://songsite123.tistory.com/78)
+ 
+### Machine Unlearning (머신 언러닝)
+* Fast Yet Effective Machine Unlearning (IEEE Transactions 2023)
+   * [Original Paper Link](https://arxiv.org/abs/2111.08947) / [Paper Review post](https://songsite123.tistory.com/80) 
      
 ### Modeling & Optimization (모델링 & 최적화)
 * An Overview of Gradient Descent Optimization Algorithms (Arxiv 2016)
