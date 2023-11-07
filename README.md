@@ -12,7 +12,7 @@
 
 ### Natural Language Processing (자연어 처리)
 * BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding (NAACL 2019)
-     * [Original Paper Link](https://arxiv.org/pdf/1810.04805.pdf)
+     * [Original Paper Link](https://arxiv.org/pdf/1810.04805.pdf) / [Paper Review post](https://songsite123.tistory.com/85)
 * Attention is All You Need (NIPS 2017)
     * [Original Paper Link](https://arxiv.org/pdf/1706.03762.pdf) / [Paper Review post](https://songsite123.tistory.com/76) / [Code Practice]() / [English2Korean Code Practice](https://github.com/Song-Joo-Young/Deep-Learning-Paper-Review/blob/main/Code%20Practice/Attention_is_All_You_Need_Tutorial_(English_to_Korean).ipynb)
 * Neural Machine Translation by Jointly Learning to Align and Translate (ICLR 2015)
