@@ -5,6 +5,8 @@
 ### Image Recognition (이미지 인식)
 * Deep Residual Learning for Image Recognition (CVPR 2016)
     * [Original Paper Link](https://arxiv.org/abs/1512.03385) / [Paper Review post](https://songsite123.tistory.com/62) / [PPT](https://github.com/Song-Joo-Young/Deep-Learning-Paper-Review/blob/main/PPT/ResNet%20Paper%20Review.pdf)
+* MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications (CVPR 2017)
+    * [Original Paper Link](https://arxiv.org/abs/1704.04861) / [Paper Review post](https://songsite123.tistory.com/86) / [Code Practice]()
       
 ### Object Detection (객체 탐지)
 * You Only Look Once: Unified, Real-Time Object Detection (CVPR 2016)
