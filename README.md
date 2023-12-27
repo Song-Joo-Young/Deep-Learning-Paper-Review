@@ -5,7 +5,9 @@
 ### Image Recognition (이미지 인식)
 * Deep Residual Learning for Image Recognition (CVPR 2016)
     * [Original Paper Link](https://arxiv.org/abs/1512.03385) / [Paper Review post](https://songsite123.tistory.com/62) / [PPT](https://github.com/Song-Joo-Young/Deep-Learning-Paper-Review/blob/main/PPT/ResNet%20Paper%20Review.pdf)
-* MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications (CVPR 2017)
+
+### Efficient Deep Learning (효율적인 딥러닝, 경량화)
+MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications (CVPR 2017)
     * [Original Paper Link](https://arxiv.org/abs/1704.04861) / [Paper Review post](https://songsite123.tistory.com/86) / [Code Practice](https://github.com/Song-Joo-Young/MobileNetV1-Optimization-for-CIFAR10)
       
 ### Object Detection (객체 탐지)
@@ -13,6 +15,8 @@
     * [Original Paper Link](https://arxiv.org/abs/1506.02640) / [Paper Review post](https://songsite123.tistory.com/64) / [Summary PDF](https://github.com/Song-Joo-Young/Deep-Learning-Paper-Review/blob/main/Summary%20PDF/Summary__You_Only_Look_Once__Unified__Real_Time_Object_Detection__CVPR_2016.pdf)
 
 ### Natural Language Processing (자연어 처리)
+* A Survey of Large Language Models in Medicine: Principles, Applications, and Challenges (Nature medicine 2023)
+     * [Original Paper Link](https://arxiv.org/abs/2311.05112) / [Paper Review post](https://songsite123.tistory.com/87)
 * BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding (NAACL 2019)
      * [Original Paper Link](https://arxiv.org/pdf/1810.04805.pdf) / [Paper Review post](https://songsite123.tistory.com/85)
 * Attention is All You Need (NIPS 2017)
