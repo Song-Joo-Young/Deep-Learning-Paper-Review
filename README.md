@@ -41,4 +41,5 @@
     * [Original Paper Link](https://arxiv.org/pdf/1609.04747.pdf) / [Paper Review post](https://songsite123.tistory.com/73)
  
 ### Basic Concepts
-* [Information Entropy](https://songsite123.tistory.com/65)    
+* [Information Entropy](https://songsite123.tistory.com/65)
+* [Generative model vs Discriminative model](https://songsite123.tistory.com/88)
