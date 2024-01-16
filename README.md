@@ -15,6 +15,8 @@
     * [Original Paper Link](https://arxiv.org/abs/1506.02640) / [Paper Review post](https://songsite123.tistory.com/64) / [Summary PDF](https://github.com/Song-Joo-Young/Deep-Learning-Paper-Review/blob/main/Summary%20PDF/Summary__You_Only_Look_Once__Unified__Real_Time_Object_Detection__CVPR_2016.pdf)
 
 ### Natural Language Processing (자연어 처리)
+* Table-to-Text Generation with Effective Hierarchical Encoder on Three Dimensions (Row, Column and Time) (EMNLP 2019)
+     * [Original Paper Link](https://arxiv.org/abs/1909.02304) / [Paper Review Post](https://songsite123.tistory.com/89) 
 * A Survey of Large Language Models in Medicine: Principles, Applications, and Challenges (Nature medicine 2023)
      * [Original Paper Link](https://arxiv.org/abs/2311.05112) / [Paper Review post](https://songsite123.tistory.com/87)
 * BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding (NAACL 2019)
