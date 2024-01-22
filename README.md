@@ -7,6 +7,8 @@
     * [Original Paper Link](https://arxiv.org/abs/1512.03385) / [Paper Review post](https://songsite123.tistory.com/62) / [PPT](https://github.com/Song-Joo-Young/Deep-Learning-Paper-Review/blob/main/PPT/ResNet%20Paper%20Review.pdf)
 
 ### Efficient Deep Learning (효율적인 딥러닝, 경량화)
+* LoRA: Low-Rank Adaptation of Large Language Models (arXiv 2021)
+     * [Original Paper Link](https://arxiv.org/abs/2106.09685) / [Paper Review Post](https://songsite123.tistory.com/91) 
 * MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications (CVPR 2017)
     * [Original Paper Link](https://arxiv.org/abs/1704.04861) / [Paper Review post](https://songsite123.tistory.com/86) / [Code Practice](https://github.com/Song-Joo-Young/MobileNetV1-Optimization-for-CIFAR10)
       
@@ -15,8 +17,8 @@
     * [Original Paper Link](https://arxiv.org/abs/1506.02640) / [Paper Review post](https://songsite123.tistory.com/64) / [Summary PDF](https://github.com/Song-Joo-Young/Deep-Learning-Paper-Review/blob/main/Summary%20PDF/Summary__You_Only_Look_Once__Unified__Real_Time_Object_Detection__CVPR_2016.pdf)
 
 ### Natural Language Processing (자연어 처리)
-* LoRA: Low-Rank Adaptation of Large Language Models (arXiv 2021)
-     * [Original Paper Link](https://arxiv.org/abs/2106.09685) / [Paper Review Post](https://songsite123.tistory.com/91) 
+* ToTTo: A Controlled Table-To-Text Generation Dataset (EMNLP 2020)
+     * [Original Paper Link](https://arxiv.org/abs/2004.14373) / [Paper Review Post](https://songsite123.tistory.com/90) 
 * Table-to-Text Generation with Effective Hierarchical Encoder on Three Dimensions (Row, Column and Time) (EMNLP 2019)
      * [Original Paper Link](https://arxiv.org/abs/1909.02304) / [Paper Review Post](https://songsite123.tistory.com/89) 
 * A Survey of Large Language Models in Medicine: Principles, Applications, and Challenges (Nature medicine 2023)
