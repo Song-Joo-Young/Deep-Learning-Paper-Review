@@ -24,7 +24,7 @@
 * A Survey of Large Language Models in Medicine: Principles, Applications, and Challenges (Nature medicine 2023)
      * [Original Paper Link](https://arxiv.org/abs/2311.05112) / [Paper Review post](https://songsite123.tistory.com/87)
 * BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding (NAACL 2019)
-     * [Original Paper Link](https://arxiv.org/pdf/1810.04805.pdf) / [Paper Review post](https://songsite123.tistory.com/85)
+     * [Original Paper Link](https://arxiv.org/pdf/1810.04805.pdf) / [Paper Review post](https://songsite123.tistory.com/85) / [Code Practice](https://github.com/Song-Joo-Young/KoMultiText/blob/main/01_multi_task_models/KRBERT_multi_task.ipynb)
 * Attention is All You Need (NIPS 2017)
     * [Original Paper Link](https://arxiv.org/pdf/1706.03762.pdf) / [Paper Review post](https://songsite123.tistory.com/76) / [Code Practice]() / [English2Korean Code Practice](https://github.com/Song-Joo-Young/Deep-Learning-Paper-Review/blob/main/Code%20Practice/Attention_is_All_You_Need_Tutorial_(English_to_Korean).ipynb)
 * Neural Machine Translation by Jointly Learning to Align and Translate (ICLR 2015)
